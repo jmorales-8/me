@@ -1,6 +1,9 @@
 # OS-specific files
 .DS_Store
 
+# Environment files
+.env
+
 # Editor-specific files
 .vscode/
 
